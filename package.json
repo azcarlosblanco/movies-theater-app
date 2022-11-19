@@ -14,7 +14,7 @@
     "react-hooks-fetch": "^0.5.1",
     "react-intersection-observer": "^8.25.2",
     "react-rating": "^2.0.4",
-    "react-scripts": "3.3.1",
+    "react-scripts": "5.0.1",
     "styled-components": "^5.0.1",
     "typeface-roboto": "^0.0.75"
   },
